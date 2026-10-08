@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/its-sarthak-27/Leetcode/tree/master/0136-single-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/its-sarthak-27/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/its-sarthak-27/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/its-sarthak-27/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/its-sarthak-27/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/its-sarthak-27/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
