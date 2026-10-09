@@ -10,11 +10,7 @@ public:
             return i;
             }
 
-            if(nums[n-1]<target){
-                return n;
-            }
-
         }
-        return 0;
+        return n;
     }
 };
