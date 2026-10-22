@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/its-sarthak-27/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/its-sarthak-27/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/its-sarthak-27/Leetcode/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/its-sarthak-27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/its-sarthak-27/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/its-sarthak-27/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/its-sarthak-27/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-sarthak-27/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/its-sarthak-27/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/its-sarthak-27/Leetcode/tree/master/0189-rotate-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/its-sarthak-27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/its-sarthak-27/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/its-sarthak-27/Leetcode/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/its-sarthak-27/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
